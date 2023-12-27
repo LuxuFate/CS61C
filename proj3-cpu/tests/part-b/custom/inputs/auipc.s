@@ -1,0 +1,5 @@
+auipc t0 0x21
+auipc s0 0x344
+
+auipc s0 0xfffff
+auipc s0 0

@@ -1,0 +1,10 @@
+lui t0 0x21
+lui s0 0x344
+
+lui a0, 0xdeadc 
+addi a0, a0, -0x111
+
+lui x0, 0xfffff
+lui a0, 0xfffff
+
+lui a0, 0

@@ -1,0 +1,12 @@
+Exercise 2:
+1. set args
+2. break
+3. next
+4. step
+5. continue
+6. print
+7. display
+8. info locals
+9. quit
+Exercise 4:
+1. ./primes > primenumbers.txt
